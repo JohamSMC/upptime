@@ -6,7 +6,11 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: HowCreateServer
-    url: https://johamsmc.github.io/HowCreateServer/
+    url: https://johamsmc.github.io/HowCreateServer/ 
+  - name: parallaxScrolling
+    url: https://johamsmc.github.io/html-parallaxScrolling/
+  - name: parallaxScrolling - broke site
+    url: https://thissitedoesnotexist.koj.col/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
