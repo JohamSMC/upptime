@@ -11,6 +11,8 @@ sites:
     url: https://johamsmc.github.io/html-parallaxScrolling/
   - name: HTML - Colombia
     url: https://johamsmc.github.io/html-colombia/index.html
+  - name: HTML - responsiveImagePop-Up
+    url: https://johamsmc.github.io/responsiveImagePop-Up/noExiste.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
