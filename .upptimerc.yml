@@ -12,7 +12,7 @@ sites:
   - name: HTML - Colombia
     url: https://johamsmc.github.io/html-colombia/index.html
   - name: HTML - responsiveImagePop-Up
-    url: https://johamsmc.github.io/responsiveImagePop-Up/noExiste.com
+    url: https://johamsmc.github.io/responsiveImagePop-Up
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
