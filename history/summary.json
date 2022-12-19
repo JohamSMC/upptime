@@ -58,18 +58,20 @@
     "url": "https://johamsmc.github.io/html-colombia/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/johamsmc.github.io.ico",
     "slug": "html-colombia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 51,
-    "timeDay": 55,
-    "timeWeek": 115,
-    "timeMonth": 64,
-    "timeYear": 51,
-    "dailyMinutesDown": {}
+    "time": 55,
+    "timeDay": 688,
+    "timeWeek": 266,
+    "timeMonth": 104,
+    "timeYear": 55,
+    "dailyMinutesDown": {
+      "2022-12-19": 0
+    }
   },
   {
     "name": "HTML - responsiveImagePop-Up",
