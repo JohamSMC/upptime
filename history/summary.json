@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 87,
-    "timeWeek": 127,
-    "timeMonth": 124,
-    "timeYear": 111,
-    "dailyMinutesDown": {
-      "2023-10-04": 7
-    }
+    "time": 111,
+    "timeDay": 230,
+    "timeWeek": 128,
+    "timeMonth": 132,
+    "timeYear": 112,
+    "dailyMinutesDown": {}
   },
   {
     "name": "HowCreateServer",
@@ -31,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 90,
-    "timeDay": 109,
-    "timeWeek": 88,
+    "timeDay": 116,
+    "timeWeek": 93,
     "timeMonth": 76,
     "timeYear": 91,
     "dailyMinutesDown": {}
@@ -49,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 50,
-    "timeDay": 95,
-    "timeWeek": 55,
+    "timeDay": 64,
+    "timeWeek": 62,
     "timeMonth": 40,
     "timeYear": 50,
     "dailyMinutesDown": {}
@@ -67,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 50,
-    "timeDay": 90,
-    "timeWeek": 55,
+    "timeDay": 51,
+    "timeWeek": 60,
     "timeMonth": 40,
     "timeYear": 51,
     "dailyMinutesDown": {}
@@ -84,9 +82,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 75,
-    "timeDay": 111,
-    "timeWeek": 97,
+    "time": 74,
+    "timeDay": 108,
+    "timeWeek": 108,
     "timeMonth": 61,
     "timeYear": 74,
     "dailyMinutesDown": {}
