@@ -6,10 +6,10 @@
     "slug": "google",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.96%",
     "time": 125,
     "timeDay": 243,
     "timeWeek": 135,
@@ -19,7 +19,7 @@
       "2025-12-14": 119,
       "2025-12-22": 19,
       "2026-01-03": 23,
-      "2026-07-29": 0
+      "2026-07-29": 60
     }
   },
   {
